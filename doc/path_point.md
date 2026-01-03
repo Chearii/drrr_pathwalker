@@ -8,7 +8,7 @@ This system is very much designed around the mapping system present in Dr. Robot
 
 ## Tag usage
 
-To determine the path this Pathwalker Path Point will belong to, you should set the mapthing's Tag parameter to the corresponding path number. For example: a Pathwalker Path Point with tag 1 belongs to path 1, as does a Pathwalker Path Point with tag 2 belongs to path 2.
+To determine the path this Pathwalker Path Point will belong to, you should set the mapthing's Tag parameter to the corresponding path number. For example: a Pathwalker Path Point with tag 1 belongs to path 1, and a Pathwalker Path Point with tag 2 belongs to path 2.
 
 ## Arguments
 
