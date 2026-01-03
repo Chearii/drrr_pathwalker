@@ -2,7 +2,7 @@
 
 Mapthing 12405; the **Pathwalker Path Point**, represents a vertex in 3D space that's a part of a path a Pathwalker can travel across. This document will describe its overall parameters and usage.
 
-## Discalaimer
+## Disclaimer
 
 This system is very much designed around the mapping system present in Dr. Robotnik's Ring Racers; and thus does not have support for non-UDMF maps without modification. If you were intending to use this in a non-UDMF SRB2 map, for example, you're left to your own vices in terms of figuring that out.
 
