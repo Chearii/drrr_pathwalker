@@ -1,0 +1,8 @@
+{
+    "name": "Pathwalker",
+    "author": "Cheariisan",
+    "description": "Port of the 'Pathwalker' system from Mario Kart DS. Let anything follow a path!",
+    "info_url": "https://mb.srb2.org/members/cherrysan.18993/, alternatively: https://github.com/Chearii/drrr_pathwalker",
+    "version": "1.0 - Treadmill",
+    "game_version": "2.4"
+}
